@@ -1,1 +1,1 @@
-# teva-plotlt-deploy2
+# teva-plotly-deploy2
